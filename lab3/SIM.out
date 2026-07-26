@@ -1,0 +1,67 @@
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/22/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/22/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Byggsats.VATime                             25.446     .31820     18.529     89.658       3507    
+Byggsats.NVATime                            .00000     .00000     .00000     .00000       3507    
+Byggsats.WaitTime                           .80140     .19281     .00000     35.554       3507    
+Byggsats.TranTime                           1.6076     .01716     1.0062     5.2572       3507    
+Byggsats.OtherTime                          .00000     .00000     .00000     .00000       3507    
+Byggsats.TotalTime                          27.855     .50623     20.040     126.98       3507    
+Reparation.Queue.WaitingTime                8.3908     (Insuf)    .00000     22.429        260    
+Ny Montering.Queue.WaitingTime              .17925     .07567     .00000     15.357       3514    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Byggsats.WIP                                4.8898     .09626     .00000     10.000     7.0000    
+Op1.NumberBusy                              .77533     .00951     .00000     1.0000     1.0000    
+Op1.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Op1.Utilization                             .77533     .00951     .00000     1.0000     1.0000    
+Op2.NumberBusy                              .81141     .00909     .00000     1.0000     1.0000    
+Op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Op2.Utilization                             .81141     .00909     .00000     1.0000     1.0000    
+Op3.NumberBusy                              .83857     .00801     .00000     1.0000     1.0000    
+Op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Op3.Utilization                             .83857     .00801     .00000     1.0000     1.0000    
+Op4.NumberBusy                              1.2844     .04034     .00000     2.0000     2.0000    
+Op4.NumberScheduled                         2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Op4.Utilization                             .64224     .02017     .00000     1.0000     1.0000    
+Reparation.Queue.NumberInQueue              .10908     (Insuf)    .00000     2.0000     .00000    
+Ny Montering.Queue.NumberInQueue            .03149     .01240     .00000     3.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Byggsats.NumberIn                           3514.0    
+Byggsats.NumberOut                          3507.0    
+Op1.NumberSeized                            861.00    
+Op1.ScheduledUtilization                    .77533    
+Op2.NumberSeized                            835.00    
+Op2.ScheduledUtilization                    .81141    
+Op3.NumberSeized                            820.00    
+Op3.ScheduledUtilization                    .83857    
+Op4.NumberSeized                            1258.0    
+Op4.ScheduledUtilization                    .64224    
+System.NumberOut                            3507.0    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

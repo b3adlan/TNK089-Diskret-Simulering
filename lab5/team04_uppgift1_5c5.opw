@@ -1,0 +1,10 @@
+[RESOURCES]
+ws1
+ws3
+ws2
+ws4
+[VARIABLES]
+Separate 1.NumberOut Orig
+Produkt.NumberOut
+Separate 1.NumberOut Dup
+Dispose c.NumberOut

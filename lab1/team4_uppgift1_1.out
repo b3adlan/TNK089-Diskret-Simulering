@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Simple Processing System                                    Run execution date : 1/30/2026
+Analyst: team4                                                       Model revision date: 1/30/2026
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Part.VATime                                 3.4942     (Insuf)    1.1759     5.7047         89    
+Part.NVATime                                .00000     (Insuf)    .00000     .00000         89    
+Part.WaitTime                               3.3735     (Insuf)    .00000     15.587         89    
+Part.TranTime                               .00000     (Insuf)    .00000     .00000         89    
+Part.OtherTime                              .00000     (Insuf)    .00000     .00000         89    
+Part.TotalTime                              6.8678     (Insuf)    1.9194     18.735         89    
+Drilling center.Queue.WaitingTime           3.3360     (Insuf)    .00000     15.587         90    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part.WIP                                    1.2772     (Insuf)    .00000     5.0000     1.0000    
+Drill press.NumberBusy                      .65175     (Insuf)    .00000     1.0000     1.0000    
+Drill press.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Drill press.Utilization                     .65175     (Insuf)    .00000     1.0000     1.0000    
+Drilling center.Queue.NumberInQueue         .62552     (Insuf)    .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part.NumberIn                               90.000    
+Part.NumberOut                              89.000    
+Drill press.NumberSeized                    90.000    
+Drill press.ScheduledUtilization            .65175    
+System.NumberOut                            89.000    
+
+
+Simulation run time: 0.12 minutes.
+Simulation run complete.

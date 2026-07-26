@@ -1,0 +1,18 @@
+[RESOURCES]
+Op1
+Op2
+Op3
+Op4
+[VARIABLES]
+Ny Montering.NumberIn
+Decide 2.NumberOut False
+Dispose 2.NumberOut
+Ny Montering.NumberOut
+Godinspektion.NumberOut
+Godinspektion.NumberIn
+Reparation.NumberIn
+OKEY.NumberOut False
+Reparation.NumberOut
+Ankomst byggsatser.NumberOut
+OKEY.NumberOut True
+Decide 2.NumberOut True

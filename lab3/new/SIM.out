@@ -1,0 +1,751 @@
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.735     (Corr)     20.913     171.19       3533    
+flakt.VATime                                25.273     .21993     18.486     114.83       3533    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3533    
+flakt.WaitTime                              2.0891     (Corr)     .00000     49.520       3533    
+flakt.TranTime                              2.3730     .01498     1.5540     6.9666       3533    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3533    
+flakt.TotalTime                             29.735     (Corr)     20.913     171.19       3533    
+montering.Queue.WaitingTime                  5.1674E-4  7.6493E-4 .00000     .95893       3538    
+Reparation.Queue.WaitingTime                7.6273     (Insuf)    .00000     25.627        287    
+Inspektion.Queue.WaitingTime                1.3656     (Corr)     .00000     13.326       3821    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.2607     (Corr)     .00000     11.000     5.0000    
+op1.NumberBusy                              1.2723     .04913     .00000     4.0000     1.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .31807     .01228     .00000     1.0000     .25000    
+op2.NumberBusy                              .79576     .00883     .00000     1.0000     1.0000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .79576     .00883     .00000     1.0000     1.0000    
+Kontrollant.NumberBusy                      .76428     .01147     .00000     1.0000     1.0000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .76428     .01147     .00000     1.0000     1.0000    
+op3.NumberBusy                              .81784     .00820     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .81784     .00820     .00000     1.0000     1.0000    
+op4.NumberBusy                              .82062     .00851     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .82062     .00851     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue                9.1411E-5 (Insuf)    .00000     1.0000     .00000    
+Reparation.Queue.NumberInQueue              .10945     (Insuf)    .00000     2.0000     .00000    
+Inspektion.Queue.NumberInQueue              .26090     (Corr)     .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3538.0    
+flakt.NumberOut                             3533.0    
+op1.NumberSeized                            1405.0    
+op1.ScheduledUtilization                    .31807    
+op2.NumberSeized                            819.00    
+op2.ScheduledUtilization                    .79576    
+Kontrollant.NumberSeized                    3821.0    
+Kontrollant.ScheduledUtilization            .76428    
+op3.NumberSeized                            801.00    
+op3.ScheduledUtilization                    .81784    
+op4.NumberSeized                            800.00    
+op4.ScheduledUtilization                    .82062    
+System.NumberOut                            3533.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 2 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.468     (Corr)     20.613     165.42       3530    
+flakt.VATime                                25.075     .21780     18.285     111.95       3530    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3530    
+flakt.WaitTime                              2.0340     (Corr)     .00000     47.187       3530    
+flakt.TranTime                              2.3594     .01668     1.5630     6.2783       3530    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3530    
+flakt.TotalTime                             29.468     (Corr)     20.613     165.42       3530    
+montering.Queue.WaitingTime                 .00340     .00301     .00000     3.7089       3538    
+Reparation.Queue.WaitingTime                6.9099     (Insuf)    .00000     22.269        261    
+Inspektion.Queue.WaitingTime                1.4246     .14505     .00000     16.861       3792    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.2130     .10787     .00000     10.000     8.0000    
+op1.NumberBusy                              1.2441     .05353     .00000     4.0000     2.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .31104     .01338     .00000     1.0000     .50000    
+op2.NumberBusy                              .78964     .00682     .00000     1.0000     .00000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .78964     .00682     .00000     1.0000     .00000    
+Kontrollant.NumberBusy                      .76004     .01122     .00000     1.0000     1.0000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .76004     .01122     .00000     1.0000     1.0000    
+op3.NumberBusy                              .82067     .00690     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .82067     .00690     .00000     1.0000     1.0000    
+op4.NumberBusy                              .81939     .00713     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .81939     .00713     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue                6.0210E-4 (Insuf)    .00000     1.0000     .00000    
+Reparation.Queue.NumberInQueue              .09018     (Insuf)    .00000     2.0000     .00000    
+Inspektion.Queue.NumberInQueue              .27130     .03096     .00000     4.0000     3.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3538.0    
+flakt.NumberOut                             3530.0    
+op1.NumberSeized                            1383.0    
+op1.ScheduledUtilization                    .31104    
+op2.NumberSeized                            807.00    
+op2.ScheduledUtilization                    .78964    
+Kontrollant.NumberSeized                    3792.0    
+Kontrollant.ScheduledUtilization            .76004    
+op3.NumberSeized                            806.00    
+op3.ScheduledUtilization                    .82067    
+op4.NumberSeized                            803.00    
+op4.ScheduledUtilization                    .81939    
+System.NumberOut                            3530.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 3 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.552     .59851     20.867     164.58       3516    
+flakt.VATime                                25.130     (Corr)     18.350     111.31       3516    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3516    
+flakt.WaitTime                              2.0640     .31163     .00000     45.816       3516    
+flakt.TranTime                              2.3575     .02040     1.5722     7.4533       3516    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3516    
+flakt.TotalTime                             29.552     .59851     20.867     164.58       3516    
+montering.Queue.WaitingTime                  3.8792E-4  7.5398E-4 .00000     1.2673       3522    
+Reparation.Queue.WaitingTime                7.2138     (Insuf)    .00000     23.445        268    
+Inspektion.Queue.WaitingTime                1.4062     .23830     .00000     21.204       3786    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.2006     .12793     .00000     12.000     6.0000    
+op1.NumberBusy                              1.2434     .04882     .00000     4.0000     1.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .31086     .01220     .00000     1.0000     .25000    
+op2.NumberBusy                              .79063     .00885     .00000     1.0000     1.0000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .79063     .00885     .00000     1.0000     1.0000    
+Kontrollant.NumberBusy                      .75750     .01203     .00000     1.0000     1.0000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .75750     .01203     .00000     1.0000     1.0000    
+op3.NumberBusy                              .81681     .00807     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .81681     .00807     .00000     1.0000     1.0000    
+op4.NumberBusy                              .81369     (Corr)     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .81369     (Corr)     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue                6.8313E-5 (Insuf)    .00000     1.0000     .00000    
+Reparation.Queue.NumberInQueue              .09748     (Insuf)    .00000     2.0000     1.0000    
+Inspektion.Queue.NumberInQueue              .26620     .04627     .00000     5.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3522.0    
+flakt.NumberOut                             3516.0    
+op1.NumberSeized                            1381.0    
+op1.ScheduledUtilization                    .31086    
+op2.NumberSeized                            815.00    
+op2.ScheduledUtilization                    .79063    
+Kontrollant.NumberSeized                    3786.0    
+Kontrollant.ScheduledUtilization            .75750    
+op3.NumberSeized                            800.00    
+op3.ScheduledUtilization                    .81681    
+op4.NumberSeized                            794.00    
+op4.ScheduledUtilization                    .81369    
+System.NumberOut                            3516.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 4 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.526     .45643     20.460     181.19       3525    
+flakt.VATime                                25.214     .27975     18.208     116.77       3525    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3525    
+flakt.WaitTime                              1.9381     .19734     .00000     57.390       3525    
+flakt.TranTime                              2.3733     .01601     1.5223     7.0270       3525    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3525    
+flakt.TotalTime                             29.526     .45643     20.460     181.19       3525    
+montering.Queue.WaitingTime                 .00000     .00000     .00000     .00000       3530    
+Reparation.Queue.WaitingTime                7.4662     (Insuf)    .00000     24.087        276    
+Inspektion.Queue.WaitingTime                1.2549     .13081     .00000     11.027       3802    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.2072     .10413     .00000     10.000     5.0000    
+op1.NumberBusy                              1.2513     .04276     .00000     4.0000     1.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .31282     .01069     .00000     1.0000     .25000    
+op2.NumberBusy                              .79321     .00794     .00000     1.0000     1.0000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .79321     .00794     .00000     1.0000     1.0000    
+Kontrollant.NumberBusy                      .76022     .01095     .00000     1.0000     .00000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .76022     .01095     .00000     1.0000     .00000    
+op3.NumberBusy                              .82218     (Corr)     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .82218     (Corr)     .00000     1.0000     1.0000    
+op4.NumberBusy                              .82015     .00748     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .82015     .00748     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Reparation.Queue.NumberInQueue              .10303     (Insuf)    .00000     2.0000     .00000    
+Inspektion.Queue.NumberInQueue              .23856     .02511     .00000     3.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3530.0    
+flakt.NumberOut                             3525.0    
+op1.NumberSeized                            1382.0    
+op1.ScheduledUtilization                    .31282    
+op2.NumberSeized                            814.00    
+op2.ScheduledUtilization                    .79321    
+Kontrollant.NumberSeized                    3802.0    
+Kontrollant.ScheduledUtilization            .76022    
+op3.NumberSeized                            808.00    
+op3.ScheduledUtilization                    .82218    
+op4.NumberSeized                            802.00    
+op4.ScheduledUtilization                    .82015    
+System.NumberOut                            3525.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 5 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.380     .60860     20.680     146.85       3536    
+flakt.VATime                                25.045     .34367     18.449     119.36       3536    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3536    
+flakt.WaitTime                              1.9716     .28149     .00000     40.638       3536    
+flakt.TranTime                              2.3637     .02155     1.5723     6.7742       3536    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3536    
+flakt.TotalTime                             29.380     .60860     20.680     146.85       3536    
+montering.Queue.WaitingTime                 .00277     .00439     .00000     5.0109       3541    
+Reparation.Queue.WaitingTime                6.7241     (Insuf)    .00000     22.015        262    
+Inspektion.Queue.WaitingTime                1.3688     .17213     .00000     19.684       3799    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.1974     .11681     .00000     11.000     5.0000    
+op1.NumberBusy                              1.2481     .04784     .00000     4.0000     1.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .31204     .01196     .00000     1.0000     .25000    
+op2.NumberBusy                              .78264     .00967     .00000     1.0000     1.0000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .78264     .00967     .00000     1.0000     1.0000    
+Kontrollant.NumberBusy                      .75845     .01245     .00000     1.0000     1.0000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .75845     .01245     .00000     1.0000     1.0000    
+op3.NumberBusy                              .82516     .00961     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .82516     .00961     .00000     1.0000     1.0000    
+op4.NumberBusy                              .81627     .00888     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .81627     .00888     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue                4.9080E-4 (Insuf)    .00000     1.0000     .00000    
+Reparation.Queue.NumberInQueue              .08809     (Insuf)    .00000     2.0000     .00000    
+Inspektion.Queue.NumberInQueue              .26001     .03338     .00000     5.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3541.0    
+flakt.NumberOut                             3536.0    
+op1.NumberSeized                            1392.0    
+op1.ScheduledUtilization                    .31204    
+op2.NumberSeized                            809.00    
+op2.ScheduledUtilization                    .78264    
+Kontrollant.NumberSeized                    3799.0    
+Kontrollant.ScheduledUtilization            .75845    
+op3.NumberSeized                            803.00    
+op3.ScheduledUtilization                    .82516    
+op4.NumberSeized                            799.00    
+op4.ScheduledUtilization                    .81627    
+System.NumberOut                            3536.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 6 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.342     .25462     20.518     212.39       3502    
+flakt.VATime                                25.120     .17081     18.354     143.09       3502    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3502    
+flakt.WaitTime                              1.8607     .12520     .00000     61.742       3502    
+flakt.TranTime                              2.3612     .01272     1.5709     7.5653       3502    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3502    
+flakt.TotalTime                             29.342     .25462     20.518     212.39       3502    
+montering.Queue.WaitingTime                 .00000     .00000     .00000     .00000       3507    
+Reparation.Queue.WaitingTime                7.4307     (Insuf)    .00000     23.732        268    
+Inspektion.Queue.WaitingTime                1.1998     .09805     .00000     11.880       3771    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.1409     .08300     .00000     11.000     5.0000    
+op1.NumberBusy                              1.2237     .03637     .00000     4.0000     1.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .30593     .00909     .00000     1.0000     .25000    
+op2.NumberBusy                              .78715     .00895     .00000     1.0000     1.0000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .78715     .00895     .00000     1.0000     1.0000    
+Kontrollant.NumberBusy                      .75263     .00899     .00000     1.0000     1.0000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .75263     .00899     .00000     1.0000     1.0000    
+op3.NumberBusy                              .82196     .00952     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .82196     .00952     .00000     1.0000     1.0000    
+op4.NumberBusy                              .81605     .00767     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .81605     .00767     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Reparation.Queue.NumberInQueue              .09957     (Insuf)    .00000     2.0000     .00000    
+Inspektion.Queue.NumberInQueue              .22624     .02005     .00000     3.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3507.0    
+flakt.NumberOut                             3502.0    
+op1.NumberSeized                            1360.0    
+op1.ScheduledUtilization                    .30593    
+op2.NumberSeized                            811.00    
+op2.ScheduledUtilization                    .78715    
+Kontrollant.NumberSeized                    3771.0    
+Kontrollant.ScheduledUtilization            .75263    
+op3.NumberSeized                            801.00    
+op3.ScheduledUtilization                    .82196    
+op4.NumberSeized                            803.00    
+op4.ScheduledUtilization                    .81605    
+System.NumberOut                            3502.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 7 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.715     .42853     20.835     127.91       3540    
+flakt.VATime                                25.291     .27016     18.361     105.00       3540    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3540    
+flakt.WaitTime                              2.0495     .17688     .00000     42.751       3540    
+flakt.TranTime                              2.3745     .01572     1.5415     6.9574       3540    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3540    
+flakt.TotalTime                             29.715     .42853     20.835     127.91       3540    
+montering.Queue.WaitingTime                 .00000     .00000     .00000     .00000       3546    
+Reparation.Queue.WaitingTime                7.4396     (Insuf)    .00000     22.613        292    
+Inspektion.Queue.WaitingTime                1.3315     .10625     .00000     11.035       3833    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.2660     .09543     .00000     10.000     6.0000    
+op1.NumberBusy                              1.2858     .04760     .00000     4.0000     1.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .32146     .01190     .00000     1.0000     .25000    
+op2.NumberBusy                              .79465     .00797     .00000     1.0000     1.0000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .79465     .00797     .00000     1.0000     1.0000    
+Kontrollant.NumberBusy                      .76875     .01133     .00000     1.0000     1.0000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .76875     .01133     .00000     1.0000     1.0000    
+op3.NumberBusy                              .81581     .00707     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .81581     .00707     .00000     1.0000     1.0000    
+op4.NumberBusy                              .81650     .00862     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .81650     .00862     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Reparation.Queue.NumberInQueue              .10862     (Insuf)    .00000     2.0000     .00000    
+Inspektion.Queue.NumberInQueue              .25525     .02111     .00000     3.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3546.0    
+flakt.NumberOut                             3540.0    
+op1.NumberSeized                            1419.0    
+op1.ScheduledUtilization                    .32146    
+op2.NumberSeized                            815.00    
+op2.ScheduledUtilization                    .79465    
+Kontrollant.NumberSeized                    3833.0    
+Kontrollant.ScheduledUtilization            .76875    
+op3.NumberSeized                            803.00    
+op3.ScheduledUtilization                    .81581    
+op4.NumberSeized                            801.00    
+op4.ScheduledUtilization                    .81650    
+System.NumberOut                            3540.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 8 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.477     .51918     20.810     134.11       3514    
+flakt.VATime                                25.125     .27552     18.328     87.688       3514    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3514    
+flakt.WaitTime                              1.9842     .24680     .00000     44.304       3514    
+flakt.TranTime                              2.3676     .01630     1.5349     5.6500       3514    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3514    
+flakt.TotalTime                             29.477     .51918     20.810     134.11       3514    
+montering.Queue.WaitingTime                  7.2148E-4 .00151     .00000     2.2711       3519    
+Reparation.Queue.WaitingTime                7.6609     (Insuf)    .00000     21.117        269    
+Inspektion.Queue.WaitingTime                1.2974     .14563     .00000     13.927       3784    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.1845     .10406     .00000     10.000     5.0000    
+op1.NumberBusy                              1.2405     .04465     .00000     4.0000     2.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .31013     .01116     .00000     1.0000     .50000    
+op2.NumberBusy                              .79009     .00766     .00000     1.0000     1.0000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .79009     .00766     .00000     1.0000     1.0000    
+Kontrollant.NumberBusy                      .75744     .01119     .00000     1.0000     .00000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .75744     .01119     .00000     1.0000     .00000    
+op3.NumberBusy                              .81651     .00755     .00000     1.0000     .00000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .81651     .00755     .00000     1.0000     .00000    
+op4.NumberBusy                              .81496     .00732     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .81496     .00732     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue                1.2694E-4 (Insuf)    .00000     1.0000     .00000    
+Reparation.Queue.NumberInQueue              .10304     (Insuf)    .00000     3.0000     .00000    
+Inspektion.Queue.NumberInQueue              .24547     .02865     .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3519.0    
+flakt.NumberOut                             3514.0    
+op1.NumberSeized                            1376.0    
+op1.ScheduledUtilization                    .31013    
+op2.NumberSeized                            812.00    
+op2.ScheduledUtilization                    .79009    
+Kontrollant.NumberSeized                    3784.0    
+Kontrollant.ScheduledUtilization            .75744    
+op3.NumberSeized                            800.00    
+op3.ScheduledUtilization                    .81651    
+op4.NumberSeized                            800.00    
+op4.ScheduledUtilization                    .81496    
+System.NumberOut                            3514.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 9 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.723     .42933     21.088     133.98       3547    
+flakt.VATime                                25.272     .26339     18.299     108.04       3547    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3547    
+flakt.WaitTime                              2.0849     .18337     .00000     44.770       3547    
+flakt.TranTime                              2.3661     .01555     1.5514     6.5757       3547    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3547    
+flakt.TotalTime                             29.723     .42933     21.088     133.98       3547    
+montering.Queue.WaitingTime                 .00000     .00000     .00000     .00000       3551    
+Reparation.Queue.WaitingTime                7.0856     (Insuf)    .00000     23.864        290    
+Inspektion.Queue.WaitingTime                1.3914     .13107     .00000     13.881       3838    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.2744     .10969     .00000     10.000     5.0000    
+op1.NumberBusy                              1.2819     .05026     .00000     4.0000     .00000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .32048     .01257     .00000     1.0000     .00000    
+op2.NumberBusy                              .79043     .00613     .00000     1.0000     1.0000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .79043     .00613     .00000     1.0000     1.0000    
+Kontrollant.NumberBusy                      .77099     .01120     .00000     1.0000     1.0000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .77099     .01120     .00000     1.0000     1.0000    
+op3.NumberBusy                              .81683     .00657     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .81683     .00657     .00000     1.0000     1.0000    
+op4.NumberBusy                              .82457     .00758     .00000     1.0000     .00000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .82457     .00758     .00000     1.0000     .00000    
+montering.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Reparation.Queue.NumberInQueue              .10274     (Insuf)    .00000     3.0000     .00000    
+Inspektion.Queue.NumberInQueue              .26706     .02914     .00000     4.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3552.0    
+flakt.NumberOut                             3547.0    
+op1.NumberSeized                            1423.0    
+op1.ScheduledUtilization                    .32048    
+op2.NumberSeized                            816.00    
+op2.ScheduledUtilization                    .79043    
+Kontrollant.NumberSeized                    3838.0    
+Kontrollant.ScheduledUtilization            .77099    
+op3.NumberSeized                            798.00    
+op3.ScheduledUtilization                    .81683    
+op4.NumberSeized                            804.00    
+op4.ScheduledUtilization                    .82457    
+System.NumberOut                            3547.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 10 of 10
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+Replication ended at time      : 20000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_Tally                                   29.387     .56594     20.713     155.74       3541    
+flakt.VATime                                25.004     .32719     18.605     114.00       3541    
+flakt.NVATime                               .00000     .00000     .00000     .00000       3541    
+flakt.WaitTime                              2.0284     .28081     .00000     44.338       3541    
+flakt.TranTime                              2.3539     .01887     1.5663     6.8536       3541    
+flakt.OtherTime                             .00000     .00000     .00000     .00000       3541    
+flakt.TotalTime                             29.387     .56594     20.713     155.74       3541    
+montering.Queue.WaitingTime                 .00000     .00000     .00000     .00000       3546    
+Reparation.Queue.WaitingTime                7.5727     (Insuf)    .00000     22.528        251    
+Inspektion.Queue.WaitingTime                1.3938     .19028     .00000     18.245       3793    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+flakt.WIP                                   5.2067     (Corr)     .00000     11.000     5.0000    
+op1.NumberBusy                              1.2477     (Corr)     .00000     4.0000     1.0000    
+op1.NumberScheduled                         4.0000     (Insuf)    4.0000     4.0000     4.0000    
+op1.Utilization                             .31193     (Corr)     .00000     1.0000     .25000    
+op2.NumberBusy                              .78651     .00749     .00000     1.0000     .00000    
+op2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op2.Utilization                             .78651     .00749     .00000     1.0000     .00000    
+Kontrollant.NumberBusy                      .75844     .01063     .00000     1.0000     1.0000    
+Kontrollant.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kontrollant.Utilization                     .75844     .01063     .00000     1.0000     1.0000    
+op3.NumberBusy                              .82357     .00565     .00000     1.0000     1.0000    
+op3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op3.Utilization                             .82357     .00565     .00000     1.0000     1.0000    
+op4.NumberBusy                              .81414     .00900     .00000     1.0000     1.0000    
+op4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+op4.Utilization                             .81414     .00900     .00000     1.0000     1.0000    
+montering.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Reparation.Queue.NumberInQueue              .09504     (Insuf)    .00000     2.0000     .00000    
+Inspektion.Queue.NumberInQueue              .26435     (Corr)     .00000     5.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+flakt.NumberIn                              3546.0    
+flakt.NumberOut                             3541.0    
+op1.NumberSeized                            1382.0    
+op1.ScheduledUtilization                    .31193    
+op2.NumberSeized                            813.00    
+op2.ScheduledUtilization                    .78651    
+Kontrollant.NumberSeized                    3793.0    
+Kontrollant.ScheduledUtilization            .75844    
+op3.NumberSeized                            809.00    
+op3.ScheduledUtilization                    .82357    
+op4.NumberSeized                            793.00    
+op4.ScheduledUtilization                    .81414    
+System.NumberOut                            3541.0    
+
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                 Output Summary for 10 Replications
+
+Project: Unnamed Project                                             Run execution date : 2/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/23/2026
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+flakt.NumberIn                              3533.9     10.135     3507.0     3552.0     10
+flakt.NumberOut                             3528.4     10.088     3502.0     3547.0     10
+op1.NumberSeized                            1390.3     14.130     1360.0     1423.0     10
+op1.ScheduledUtilization                    .31348     .00353     .30593     .32146     10
+op2.NumberSeized                            813.10     2.5109     807.00     819.00     10
+op2.ScheduledUtilization                    .79007     .00282     .78264     .79576     10
+Kontrollant.NumberSeized                    3801.9     15.723     3771.0     3838.0     10
+Kontrollant.ScheduledUtilization            .76087     .00399     .75263     .77099     10
+op3.NumberSeized                            802.90     2.6217     798.00     809.00     10
+op3.ScheduledUtilization                    .81973     .00241     .81581     .82516     10
+op4.NumberSeized                            799.90     2.6647     793.00     804.00     10
+op4.ScheduledUtilization                    .81763     .00247     .81369     .82457     10
+System.NumberOut                            3528.4     10.088     3502.0     3547.0     10
+
+Simulation run time: 0.08 minutes.
+Simulation run complete.

@@ -1,0 +1,8 @@
+[RESOURCES]
+Checkin agent
+[VARIABLES]
+Arrival Type 2.NumberOut
+Arrival Type 1.NumberOut
+Exit.NumberOut
+Checkin desk.NumberIn
+Checkin desk.NumberOut

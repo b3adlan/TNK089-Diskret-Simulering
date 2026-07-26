@@ -1,0 +1,80 @@
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 7/23/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 7/23/2026
+
+Replication ended at time      : 10000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+c5                                              --         --         --         --          0
+product.VATime                              .00000     .00000     .00000     .00000        642    
+product.NVATime                             .00000     .00000     .00000     .00000        642    
+product.WaitTime                            54.956     (Corr)     .00000     153.44        642    
+product.TranTime                            265.44     (Corr)     34.000     511.00        642    
+product.OtherTime                           45.625     .28020     35.914     59.601        642    
+product.TotalTime                           366.03     (Corr)     81.064     657.02        642    
+Access ws3.Queue.WaitingTime                .49003     .15318     .00000     46.709        645    
+Access ws2.Queue.WaitingTime                2.6638     (Corr)     .00000     66.367        668    
+Access ws1.Queue.WaitingTime                1.0799     (Corr)     .00000     54.766        673    
+Seize ws1.Queue.WaitingTime                 1.8841     .57352     .00000     37.349        673    
+Seize ws4.Queue.WaitingTime                 7.8140     (Corr)     .00000     88.432        643    
+Seize ws3.Queue.WaitingTime                 12.797     1.0081     .00000     102.65        645    
+Hold.Queue.WaitingTime                      12.927     (Corr)     .00000     63.000        674    
+Seize ws2.Queue.WaitingTime                 10.269     (Corr)     .00000     81.938        661    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+product.WIP                                 24.407     (Corr)     .00000     40.000     32.000    
+ws1.NumberBusy                              .87134     (Insuf)    .00000     1.0000     .00000    
+ws1.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+ws1.Utilization                             .87134     (Insuf)    .00000     1.0000     .00000    
+ws3.NumberBusy                              .80405     (Insuf)    .00000     1.0000     1.0000    
+ws3.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+ws3.Utilization                             .80405     (Insuf)    .00000     1.0000     1.0000    
+ws2.NumberBusy                              .78220     (Insuf)    .00000     1.0000     1.0000    
+ws2.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+ws2.Utilization                             .78220     (Insuf)    .00000     1.0000     1.0000    
+ws4.NumberBusy                              .81223     (Insuf)    .00000     1.0000     1.0000    
+ws4.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+ws4.Utilization                             .81223     (Insuf)    .00000     1.0000     1.0000    
+Access ws3.Queue.NumberInQueue              .03161     .00997     .00000     1.0000     .00000    
+Access ws2.Queue.NumberInQueue              .17795     (Corr)     .00000     1.0000     .00000    
+Access ws1.Queue.NumberInQueue              .07268     .02618     .00000     1.0000     .00000    
+Seize ws1.Queue.NumberInQueue               .12866     (Insuf)    .00000     1.0000     1.0000    
+Seize ws4.Queue.NumberInQueue               .50271     (Corr)     .00000     1.0000     1.0000    
+Seize ws3.Queue.NumberInQueue               .82612     (Corr)     .00000     1.0000     1.0000    
+Hold.Queue.NumberInQueue                    .87134     (Insuf)    .00000     1.0000     .00000    
+Seize ws2.Queue.NumberInQueue               .67933     (Corr)     .00000     1.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+product.NumberIn                            674.00    
+product.NumberOut                           642.00    
+ws1.NumberSeized                            673.00    
+ws1.ScheduledUtilization                    .87134    
+ws3.NumberSeized                            645.00    
+ws3.ScheduledUtilization                    .80405    
+ws2.NumberSeized                            661.00    
+ws2.ScheduledUtilization                    .78220    
+ws4.NumberSeized                            643.00    
+ws4.ScheduledUtilization                    .81223    
+System.NumberOut                            642.00    
+
+
+Simulation run time: 0.03 minutes.
+Simulation run complete.

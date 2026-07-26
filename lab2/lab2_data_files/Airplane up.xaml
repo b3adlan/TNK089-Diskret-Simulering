@@ -1,0 +1,8 @@
+<Viewbox Stretch="Uniform" Width="72" Height="79.3333333333333" ToolTip="Airplane up" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:s="clr-namespace:System;assembly=mscorlib">
+  <Viewbox.Tag>
+    <s:Int64>2071409577</s:Int64>
+  </Viewbox.Tag>
+  <Canvas Tag="#00000000,#FFFF00FF,Original,0,None" LayoutTransform="Identity" Width="904" Height="999">
+    <Polygon Points="404,581 27,719 27,623 404,384 404,64 404,60 405,56 406,53 408,49 409,46 412,43 415,40 417,38 421,35 424,33 428,31 432,30 435,29 439,28 444,27 448,27 452,27 457,28 461,29 465,30 469,31 473,33 477,35 480,38 483,40 486,43 488,46 490,50 492,53 493,57 493,62 493,66 493,384 876,623 876,719 493,581 493,826 580,892 580,971 448,910 318,971 318,892 404,826 404,581" Fill="#FF0000FF" Stroke="#FF000000" StrokeThickness="3" />
+  </Canvas>
+</Viewbox>

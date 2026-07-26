@@ -1,0 +1,17 @@
+Fit All
+
+Document:  C:\Users\bashe\Downloads\ÅK3\TNK089\TNK089 LAB2 ARENA\lab2_data_files\lab2_arrivals_a.dst
+Data File: C:\Users\bashe\Downloads\ÅK3\TNK089\TNK089 LAB2 ARENA\lab2_data_files\lab2_arrivals_a.dst
+
+
+Function       Sq Error
+-----------------------
+Erlang         0.000266
+Exponential    0.000266
+Gamma          0.000335
+Weibull        0.000518
+Beta           0.000652
+Lognormal      0.00476
+Normal         0.0348
+Triangular     0.0519
+Uniform        0.0857

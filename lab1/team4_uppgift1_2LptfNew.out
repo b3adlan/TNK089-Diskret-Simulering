@@ -1,0 +1,262 @@
+
+                                      ARENA Simulation Results
+                                               LiU-IT
+
+                                  Summary for Replication 1 of 5
+
+Project: Unnamed Project                                             Run execution date : 1/28/2026
+Analyst: LiU-IT                                                      Model revision date: 1/28/2026
+
+Replication ended at time      : 720.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Part.VATime                                 3.4614     (Insuf)    1.1759     5.7047        134    
+Part.NVATime                                .00000     (Insuf)    .00000     .00000        134    
+Part.WaitTime                               5.2281     (Insuf)    .00000     55.420        134    
+Part.TranTime                               .00000     (Insuf)    .00000     .00000        134    
+Part.OtherTime                              .00000     (Insuf)    .00000     .00000        134    
+Part.TotalTime                              8.6896     (Insuf)    1.9194     57.780        134    
+Drilling center.Queue.WaitingTime           5.2281     (Insuf)    .00000     55.420        134    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part.WIP                                    1.6172     (Insuf)    .00000     10.000     .00000    
+Drill press.NumberBusy                      .64422     (Insuf)    .00000     1.0000     .00000    
+Drill press.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Drill press.Utilization                     .64422     (Insuf)    .00000     1.0000     .00000    
+Drilling center.Queue.NumberInQueue         .97302     (Insuf)    .00000     9.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part.NumberIn                               134.00    
+Part.NumberOut                              134.00    
+Drill press.NumberSeized                    134.00    
+Drill press.ScheduledUtilization            .64422    
+System.NumberOut                            134.00    
+
+Beginning replication 2 of 5
+
+                                      ARENA Simulation Results
+                                               LiU-IT
+
+                                  Summary for Replication 2 of 5
+
+Project: Unnamed Project                                             Run execution date : 1/28/2026
+Analyst: LiU-IT                                                      Model revision date: 1/28/2026
+
+Replication ended at time      : 720.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Part.VATime                                 3.4041     (Insuf)    1.3095     5.9319        147    
+Part.NVATime                                .00000     (Insuf)    .00000     .00000        147    
+Part.WaitTime                               4.9641     (Insuf)    .00000     43.877        147    
+Part.TranTime                               .00000     (Insuf)    .00000     .00000        147    
+Part.OtherTime                              .00000     (Insuf)    .00000     .00000        147    
+Part.TotalTime                              8.3683     (Insuf)    1.5132     46.614        147    
+Drilling center.Queue.WaitingTime           4.9306     (Insuf)    .00000     43.877        148    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part.WIP                                    1.7113     (Insuf)    .00000     6.0000     1.0000    
+Drill press.NumberBusy                      .69787     (Insuf)    .00000     1.0000     1.0000    
+Drill press.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Drill press.Utilization                     .69787     (Insuf)    .00000     1.0000     1.0000    
+Drilling center.Queue.NumberInQueue         1.0135     (Insuf)    .00000     5.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part.NumberIn                               148.00    
+Part.NumberOut                              147.00    
+Drill press.NumberSeized                    148.00    
+Drill press.ScheduledUtilization            .69787    
+System.NumberOut                            147.00    
+
+Beginning replication 3 of 5
+
+                                      ARENA Simulation Results
+                                               LiU-IT
+
+                                  Summary for Replication 3 of 5
+
+Project: Unnamed Project                                             Run execution date : 1/28/2026
+Analyst: LiU-IT                                                      Model revision date: 1/28/2026
+
+Replication ended at time      : 720.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Part.VATime                                 3.2857     (Insuf)    1.2022     5.8756        163    
+Part.NVATime                                .00000     (Insuf)    .00000     .00000        163    
+Part.WaitTime                               3.8894     (Insuf)    .00000     54.121        163    
+Part.TranTime                               .00000     (Insuf)    .00000     .00000        163    
+Part.OtherTime                              .00000     (Insuf)    .00000     .00000        163    
+Part.TotalTime                              7.1751     (Insuf)    1.2022     56.392        163    
+Drilling center.Queue.WaitingTime           3.8894     (Insuf)    .00000     54.121        163    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part.WIP                                    1.6243     .55292     .00000     8.0000     .00000    
+Drill press.NumberBusy                      .74385     (Insuf)    .00000     1.0000     .00000    
+Drill press.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Drill press.Utilization                     .74385     (Insuf)    .00000     1.0000     .00000    
+Drilling center.Queue.NumberInQueue         .88052     (Insuf)    .00000     7.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part.NumberIn                               163.00    
+Part.NumberOut                              163.00    
+Drill press.NumberSeized                    163.00    
+Drill press.ScheduledUtilization            .74385    
+System.NumberOut                            163.00    
+
+Beginning replication 4 of 5
+
+                                      ARENA Simulation Results
+                                               LiU-IT
+
+                                  Summary for Replication 4 of 5
+
+Project: Unnamed Project                                             Run execution date : 1/28/2026
+Analyst: LiU-IT                                                      Model revision date: 1/28/2026
+
+Replication ended at time      : 720.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Part.VATime                                 3.3461     (Insuf)    1.2139     5.7165        150    
+Part.NVATime                                .00000     (Insuf)    .00000     .00000        150    
+Part.WaitTime                               2.9076     (Insuf)    .00000     37.047        150    
+Part.TranTime                               .00000     (Insuf)    .00000     .00000        150    
+Part.OtherTime                              .00000     (Insuf)    .00000     .00000        150    
+Part.TotalTime                              6.2538     (Insuf)    1.2139     39.875        150    
+Drilling center.Queue.WaitingTime           2.8935     (Insuf)    .00000     37.047        151    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part.WIP                                    1.3042     (Insuf)    .00000     5.0000     1.0000    
+Drill press.NumberBusy                      .69740     (Insuf)    .00000     1.0000     1.0000    
+Drill press.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Drill press.Utilization                     .69740     (Insuf)    .00000     1.0000     1.0000    
+Drilling center.Queue.NumberInQueue         .60684     (Insuf)    .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part.NumberIn                               151.00    
+Part.NumberOut                              150.00    
+Drill press.NumberSeized                    151.00    
+Drill press.ScheduledUtilization            .69740    
+System.NumberOut                            150.00    
+
+Beginning replication 5 of 5
+
+                                      ARENA Simulation Results
+                                               LiU-IT
+
+                                  Summary for Replication 5 of 5
+
+Project: Unnamed Project                                             Run execution date : 1/28/2026
+Analyst: LiU-IT                                                      Model revision date: 1/28/2026
+
+Replication ended at time      : 720.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Part.VATime                                 3.1996     (Insuf)    1.2232     5.7534        160    
+Part.NVATime                                .00000     (Insuf)    .00000     .00000        160    
+Part.WaitTime                               4.1531     (Insuf)    .00000     63.951        160    
+Part.TranTime                               .00000     (Insuf)    .00000     .00000        160    
+Part.OtherTime                              .00000     (Insuf)    .00000     .00000        160    
+Part.TotalTime                              7.3527     (Insuf)    1.2232     65.280        160    
+Drilling center.Queue.WaitingTime           4.1531     (Insuf)    .00000     63.951        160    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part.WIP                                    1.6339     .64376     .00000     8.0000     .00000    
+Drill press.NumberBusy                      .71103     (Insuf)    .00000     1.0000     .00000    
+Drill press.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Drill press.Utilization                     .71103     (Insuf)    .00000     1.0000     .00000    
+Drilling center.Queue.NumberInQueue         .92292     (Insuf)    .00000     7.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part.NumberIn                               160.00    
+Part.NumberOut                              160.00    
+Drill press.NumberSeized                    160.00    
+Drill press.ScheduledUtilization            .71103    
+System.NumberOut                            160.00    
+
+
+                                      ARENA Simulation Results
+                                               LiU-IT
+
+                                  Output Summary for 5 Replications
+
+Project: Unnamed Project                                             Run execution date : 1/28/2026
+Analyst: LiU-IT                                                      Model revision date: 1/28/2026
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Part.NumberIn                               151.20     14.192     134.00     163.00     5
+Part.NumberOut                              150.80     14.301     134.00     163.00     5
+Drill press.NumberSeized                    151.20     14.192     134.00     163.00     5
+Drill press.ScheduledUtilization            .69887     .04460     .64422     .74385     5
+System.NumberOut                            150.80     14.301     134.00     163.00     5
+
+Simulation run time: 0.27 minutes.
+Simulation run complete.

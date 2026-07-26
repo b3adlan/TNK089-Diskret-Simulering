@@ -1,0 +1,68 @@
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/ 9/2026
+Analyst: LiU-IT                                                      Model revision date: 2/ 9/2026
+
+Replication ended at time      : 960.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Type 2 Passenger.VATime                     11.179     (Insuf)    7.5201     19.067        221    
+Type 2 Passenger.NVATime                    .00000     (Insuf)    .00000     .00000        221    
+Type 2 Passenger.WaitTime                   2.6991     (Insuf)    .00000     15.082        221    
+Type 2 Passenger.TranTime                   4.9647     (Insuf)    4.1924     5.8588        221    
+Type 2 Passenger.OtherTime                  .00000     (Insuf)    .00000     .00000        221    
+Type 2 Passenger.TotalTime                  18.843     (Insuf)    12.637     31.721        221    
+Type 1 Passenger.VATime                     6.1310     .15198     3.2268     12.750        424    
+Type 1 Passenger.NVATime                    .00000     .00000     .00000     .00000        424    
+Type 1 Passenger.WaitTime                   2.6582     (Corr)     .00000     15.640        424    
+Type 1 Passenger.TranTime                   4.9722     .03371     4.0498     5.9811        424    
+Type 1 Passenger.OtherTime                  .00000     .00000     .00000     .00000        424    
+Type 1 Passenger.TotalTime                  13.761     (Corr)     7.8273     27.730        424    
+Passenger.VATime                                --         --         --         --          0
+Passenger.NVATime                               --         --         --         --          0
+Passenger.WaitTime                              --         --         --         --          0
+Passenger.TranTime                              --         --         --         --          0
+Passenger.OtherTime                             --         --         --         --          0
+Passenger.TotalTime                             --         --         --         --          0
+Checkin desk.Queue.WaitingTime              2.6640     (Corr)     .00000     15.640        647    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Type 2 Passenger.WIP                        4.3379     (Corr)     .00000     11.000     .00000    
+Type 1 Passenger.WIP                        6.0906     (Corr)     .00000     15.000     3.0000    
+Passenger.WIP                               .00000     (Insuf)    .00000     .00000     .00000    
+Checkin agent.NumberBusy                    5.2855     (Corr)     .00000     7.0000     1.0000    
+Checkin agent.NumberScheduled               6.3420     (Insuf)    6.0000     7.0000     7.0000    
+Checkin agent.Utilization                   .83775     (Corr)     .00000     1.0000     .14286    
+Checkin desk.Queue.NumberInQueue            1.7954     (Corr)     .00000     13.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Type 2 Passenger.NumberIn                   221.00    
+Type 2 Passenger.NumberOut                  221.00    
+Type 1 Passenger.NumberIn                   427.00    
+Type 1 Passenger.NumberOut                  424.00    
+Passenger.NumberIn                          .00000    
+Passenger.NumberOut                         .00000    
+Checkin agent.NumberSeized                  647.00    
+Checkin agent.ScheduledUtilization          .83341    
+System.NumberOut                            645.00    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

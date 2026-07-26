@@ -1,0 +1,63 @@
+
+                                      ARENA Simulation Results
+                            basherabuadnan@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/26/2026
+Analyst: basherabuadnan@hotmail.com                                  Model revision date: 2/26/2026
+
+Replication ended at time      : 720.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tid_lamnar_systemetA                        7.2659     1.0063     .57611     24.452       1144    
+Pall.VATime                                 .29881     .00358     .20047     .39971       1144    
+Pall.NVATime                                .00000     .00000     .00000     .00000       1144    
+Pall.WaitTime                               5.6994     .99596     .01333     22.796       1144    
+Pall.TranTime                               .91893     (Corr)     .01333     1.0000       1144    
+Pall.OtherTime                              .34878     .00158     .30009     .39979       1144    
+Pall.TotalTime                              7.2659     1.0063     .57611     24.452       1144    
+Lastbil.VATime                              .00000     (Insuf)    .00000     .00000         79    
+Lastbil.NVATime                             .00000     (Insuf)    .00000     .00000         79    
+Lastbil.WaitTime                            .00000     (Insuf)    .00000     .00000         79    
+Lastbil.TranTime                            .00000     (Insuf)    .00000     .00000         79    
+Lastbil.OtherTime                           .00000     (Insuf)    .00000     .00000         79    
+Lastbil.TotalTime                           .00000     (Insuf)    .00000     .00000         79    
+Begar Truck Brygga 5.Queue.WaitingTime      3.0908     (Insuf)    .00000     12.383        246    
+Begar Truck Brygga 4.Queue.WaitingTime      4.4565     (Insuf)    .00000     13.327        225    
+Begar Truck Brygga 3.Queue.WaitingTime      4.8243     (Insuf)    .00000     15.530        209    
+Begar Truck Brygga 2.Queue.WaitingTime      5.2354     (Insuf)    .00000     21.796        222    
+Begar Truck Brygga 1.Queue.WaitingTime      6.3466     (Insuf)    .00000     17.590        248    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Pall.WIP                                    11.649     2.6005     .00000     58.000     26.000    
+Lastbil.WIP                                 .00000     (Insuf)    .00000     22.000     .00000    
+Begar Truck Brygga 5.Queue.NumberInQueue    1.0560     (Insuf)    .00000     18.000     .00000    
+Begar Truck Brygga 4.Queue.NumberInQueue    1.3926     (Insuf)    .00000     18.000     .00000    
+Begar Truck Brygga 3.Queue.NumberInQueue    1.4004     (Insuf)    .00000     18.000     .00000    
+Begar Truck Brygga 2.Queue.NumberInQueue    1.6334     (Insuf)    .00000     21.000     3.0000    
+Begar Truck Brygga 1.Queue.NumberInQueue    2.2338     (Insuf)    .00000     21.000     17.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Pall.NumberIn                               1170.0    
+Pall.NumberOut                              1144.0    
+Lastbil.NumberIn                            1249.0    
+Lastbil.NumberOut                           1249.0    
+System.NumberOut                            1223.0    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

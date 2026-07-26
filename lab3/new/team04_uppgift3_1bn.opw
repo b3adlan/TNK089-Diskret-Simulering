@@ -1,0 +1,17 @@
+[RESOURCES]
+op1
+op2
+Kontrollant
+op3
+op4
+[VARIABLES]
+Godkand i Inspektion.NumberOut False
+Godkand i Inspektion.NumberOut True
+Fardiga flaktar lamnar.NumberOut
+montering.NumberIn
+Inspektion.NumberIn
+montering.NumberOut
+Byggsatser_ankommer.NumberOut
+Reparation.NumberIn
+Reparation.NumberOut
+Inspektion.NumberOut

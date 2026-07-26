@@ -1,0 +1,23 @@
+[RESOURCES]
+[VARIABLES]
+Tom lastbil lamnar 5.NumberOut
+Tom lastbil lamnar 4.NumberOut
+Tom lastbil lamnar 3.NumberOut
+Tom lastbil lamnar 2.NumberOut
+Tom lastbil lamnar 1.NumberOut
+Pallar lamnar systemet.NumberOut
+Lasta av pallar Brygga 5.NumberOut Orig
+Lasta av pallar Brygga 4.NumberOut Orig
+Lasta av pallar Brygga 3.NumberOut Orig
+Lasta av pallar Brygga 2.NumberOut Orig
+Lasta av pallar Brygga 1.NumberOut Orig
+Lasta av pallar Brygga 5.NumberOut Dup
+Lasta av pallar Brygga 4.NumberOut Dup
+Lasta av pallar Brygga 3.NumberOut Dup
+Lasta av pallar Brygga 2.NumberOut Dup
+Lasta av pallar Brygga 1.NumberOut Dup
+Ankomst Lastbrygga 5.NumberOut
+Ankomst Lastbrygga 4.NumberOut
+Ankomst Lastbrygga 3.NumberOut
+Ankomst Lastbrygga 2.NumberOut
+Ankomst Lastbrygga 1.NumberOut
